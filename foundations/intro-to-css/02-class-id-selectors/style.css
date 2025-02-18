@@ -1,18 +1,18 @@
 p {
     background: #FFCCCB;
-    font-family: Verdana, DejaVu sans, sans-serif
+    font-family: Verdana, "DejaVu sans", sans-serif
 }
 
-#number2 {
+#one-id {
     color: #0000ff;
     font-size: 36px;
 }
 
-p.number3 {
+p.cooler-class {
     font-size: 24px;
 }
 
-.number4 {
+#another-id {
     background: #90ee90;
     font-size: 24px;
 }
