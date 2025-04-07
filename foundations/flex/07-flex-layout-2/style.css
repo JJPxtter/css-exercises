@@ -63,7 +63,7 @@ ul {
 }
 
 .cards {
-  padding: 24px;
+  padding: 48px;
   display: flex;
   flex-wrap: wrap;
   gap: 16px;
